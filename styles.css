@@ -1,0 +1,22 @@
+body{
+    text-align: center;
+    margin: 0 15%;
+    width: 75%;
+    border: solid blue;
+}
+
+
+h1 {
+    background-color: lightgrey;
+    margin-top: 20;
+    margin-bottom: 0;
+    padding: 0;
+}
+
+
+h2{
+    background-color: lightgrey;
+    font-style: italic;
+    margin: 0;
+    padding: 0;
+}
